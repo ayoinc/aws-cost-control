@@ -1,4 +1,6 @@
 # AWS: Cost Control
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/346a6b1d-df04-42aa-b731-cdaf92b2b72c.svg?orgId=666444378491)](https://app.soluble.cloud/repos/details/github.com/ayoinc/aws-cost-control?orgId=666444378491)  
 Companion Repository to Linked In Learning Course ["AWS Cost Control"](https://www.linkedin.com/learning/aws-controlling-cost).   
 Example AWS Cost Explorer Dashboard shown below. 
 
